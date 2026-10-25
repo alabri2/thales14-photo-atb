@@ -192,8 +192,3 @@ The code is the version delivered for the final evaluation; only the following f
 - 🎨 [Website mock-ups](docs/maquettes/)
 - 📊 Project management: [Gantt](docs/gestion-projet/gantt-semestre-2.png) · [RACI](docs/gestion-projet/raci.png) · [anomaly report](docs/gestion-projet/fiche-anomalie.png)
 
-## 📄 License
-
-BH1750 driver: [flrrth/pico-bh1750](https://github.com/flrrth/pico-bh1750).
-
-<sub>Academic project carried out with Thales as part of the BUT R&T curriculum. *Thales14* is the name of our student team; this repository is not an official Thales product.</sub>
