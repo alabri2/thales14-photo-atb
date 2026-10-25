@@ -175,15 +175,6 @@ The code is the version delivered for the final evaluation; only the following f
 **Publication**
 - Demo database cleaned (test accounts and logs removed) and Wi-Fi credentials replaced with placeholders.
 
-## 👥 Team Thales14
-
-| Member | Main role |
-|---|---|
-| **Mohammed Al-Abri** | Algorithms, Raspberry Pi ↔ Pico communication design, Python capture script, Raspberry Pi setup (Apache2/PHP), integration & testing |
-| Rayan Zoubir | Web application (HTML/CSS/PHP), database integration, communication diagram |
-| Adrien Caillet | Database (conceptual/logical models, SQLite), Pico firmware, wiring |
-| Arthur Laurent | Website mock-ups, Pico configuration, wiring diagram |
-| Sarah Hacherouf | Project management (Gantt, RACI, risk analysis, anomaly reports) |
 
 ### My contribution — Mohammed Al-Abri
 - Designed the system **algorithms** (Raspberry Pi logic and lighting control) — see [`docs/architecture/`](docs/architecture/)
@@ -203,7 +194,6 @@ The code is the version delivered for the final evaluation; only the following f
 
 ## 📄 License
 
-Distributed under the **GPL-3.0** license — see [LICENSE](LICENSE).
 BH1750 driver: [flrrth/pico-bh1750](https://github.com/flrrth/pico-bh1750).
 
 <sub>Academic project carried out with Thales as part of the BUT R&T curriculum. *Thales14* is the name of our student team; this repository is not an official Thales product.</sub>
